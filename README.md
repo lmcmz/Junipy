@@ -2,6 +2,8 @@
 
 **J**ust an **u**niversal **n**ational **i**ndicator **p**arse and anal**y**se service
 
+## Demo
+[Junipy Demo](http://45.76.176.41)
 
 ## Important Links
 
