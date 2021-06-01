@@ -32,6 +32,6 @@ scipy==1.1.0
 seaborn==0.8.1
 singledispatch==3.4.0.3
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.14.1
 wrapt==1.10.11
